@@ -30,7 +30,7 @@ local Toggles = {}
 local Options = {}
 local Tooltips = {}
 
-local BaseURL = "https://raw.githubusercontent.com/joustingmatch/Ouroidian/refs/heads/main/"
+local BaseURL = "https://raw.githubusercontent.com/VyxHub/Obsidian/refs/heads/main/"
 local CustomImageManager = {}
 local CustomImageManagerAssets = {
     TransparencyTexture = {
